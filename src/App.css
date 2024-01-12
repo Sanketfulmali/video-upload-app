@@ -1,0 +1,23 @@
+/* App.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('https://media.istockphoto.com/id/1420165396/photo/3d-digital-data-communications-background-with-plexus-design.jpg?s=1024x1024&w=is&k=20&c=qOwy7M0rd-8dq_sQRFNjYxdz5SjMrpaC8AznHkR6hW4='); /* Replace 'path-to-your-background-image.jpg' with the actual path to your background image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh; /* Ensure the background covers the entire viewport height */
+}
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+h1 {
+  color: #fff; /* Set the text color to white for better visibility on the background */
+}
+
+/* Rest of the styles remain the same */
